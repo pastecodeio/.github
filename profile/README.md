@@ -1,3 +1,5 @@
-## Hi there 👋
+# PasteCode.io
 
-PasteCode.io is a code sharing website designed exclusively for developers to collaborate. You can freely paste and share code online using our platform. With support for up to 165 programming languages, PasteCode.io offers syntax highlighting to cater to your specific needs.
+PasteCode.io is a code sharing website designed exclusively for developers to collaborate.
+
+You can [create an issue](https://github.com/pastecodeio/pastecode/issues) on main repository to report bugs or make suggestions.
